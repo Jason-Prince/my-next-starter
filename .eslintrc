@@ -1,8 +1,8 @@
 {
-  "extends": "next",
-  "root": true,
-  "rules": {
-    "react/prop-types": "off",
-    "react/react-in-jsx-scope": "off"
-  }
+    "extends": "next",
+    "root": true,
+    "rules": {
+        "react/prop-types": "off",
+        "react/react-in-jsx-scope": "off"
+    }
 }
