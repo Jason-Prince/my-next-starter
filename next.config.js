@@ -6,5 +6,8 @@ module.exports = {
         config.resolve.fallback = { fs: false, module: false };
 
         return config;
+    },
+    images: {
+        domains: ['upload.wikimedia.org']
     }
 };
